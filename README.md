@@ -18,3 +18,7 @@
 ##GUIDE
 
 blabla
+
+
+### Time to close the issue
+bye bye Mac OS files
